@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MobileApp</string>
+    <string name="date">Date</string>
+    <string name="events">Events</string>
+    <string name="event_is_happening">Event is happening</string>
+    <string name="x">X</string>
+    <string name="_39_36_34">39/36/34</string>
+    <string name="add_event">Add Event</string>
+    <string name="enter_event">Enter Event</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="enter_date_yyyy_mm_dd">enter_date: yyyy-mm-dd</string>
+    <string name="enter_date_yyyy_mm_dd2">enter_date: yyyy/mm/dd</string>
+    <string name="re_enter_password">Re-enter password</string>
+</resources>
