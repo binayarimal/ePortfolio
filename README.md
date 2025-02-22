@@ -17,7 +17,7 @@ These three videos demonstrate the enhancement made during the capstone:
 
 [Enhancement 2 Video Demo - Algorithm and Data Structure](https://www.youtube.com/watch?v=Fg2B92pmaSA)
 
-[Enhancement 3 Video Dem0 - Database](https://www.youtube.com/watch?v=nuiu8mVwNRE)
+[Enhancement 3 Video Demo - Database](https://www.youtube.com/watch?v=nuiu8mVwNRE)
 
 ### Links to Repos
 Both the original app and the enhanced app are provided in this repository as the capstone_enhanced and capstone_preEnhanced folder. If users want to download them separately, I have included links to the original repository:
