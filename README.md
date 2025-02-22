@@ -23,6 +23,7 @@ These three videos demonstrate the enhancement made during the capstone:
 Both the original app and the enhanced app are provided in this repository as the capstone_enhanced and capstone_preEnhanced folder. If users want to download them separately, I have included links to the original repository:
 
 [Repo of the Enhanced Event Tracker](https://github.com/binayarimal/capstone)
+
 [Repo of the Pre Enhanced Event Tracker](https://github.com/binayarimal/eventTracker)
 
 
