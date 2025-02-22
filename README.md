@@ -20,7 +20,7 @@ These three videos demonstrate the enhancement made during the capstone:
 [Enhancement 3 Video Demo - Database](https://www.youtube.com/watch?v=nuiu8mVwNRE)
 
 ### Links to Repos
-Both the original app and the enhanced app are provided in this repository as the capstone_enhanced and capstone_preEnhanced folder. If users want to download them separately, I have included links to the original repository:
+Both the original app and the enhanced app are provided in this repository as capstone_enhanced and capstone_preEnhanced folder. If users want to download them separately, I have included links to the original repositories:
 
 [Repo of the Enhanced Event Tracker](https://github.com/binayarimal/capstone)
 
@@ -40,6 +40,10 @@ Effective communication with stakeholders is another crucial skill I have develo
 ### Software Design And Engineering
 For the Software Design and Engineering portion of my project, I converted the code from Java to Kotlin and added an SMS notification feature. I chose to keep some Java code to showcase my proficiency in both languages and to demonstrate my ability to integrate multiple programming languages within the same project. This process highlights my strong foundational understanding of software principles, which allows me to transition between languages. Prior to this assignment, my experience was limited to Java when it comes to app development. However, I was able to quickly transfer my knowledge to Kotlin because, despite differences in syntax, the core programming concepts remained largely the same. This ability to adapt to new languages and frameworks highlights my versatility and my ability to adapt, two key qualities for success in software engineering.
 
+Here is a video demon of the enhancement:[Enahancement 1 Video Demo - Software Design and Engineering](https://www.youtube.com/watch?v=Rv657tdYEnA)
+
+More details are present in Narrative1: Software Design and Engineering folder, which you can find above in this repository.
+
 ### Algorithm and Data Structure
 In addition to the language conversion, I applied concepts from my Data Structures and Algorithms class by implementing a sorting function within the project. Specifically, I implemented the Bubble Sort algorithm to sort the events based on their dates. While there are built-in sorting libraries available, I chose to implement the algorithm manually to showcase my understanding of how complex algorithms work and how to optimize them for efficiency. By manually coding the sorting process, I was able to reinforce my knowledge of algorithms and data structures while ensuring that the app could sort events based on different criteria: most recent, least recent, and date added. This decision to write the sorting function from scratch demonstrates not only my ability to apply technical concepts but also my problem-solving skills and attention to detail, key strengths that I can carry forward into future projects.
 
@@ -54,6 +58,7 @@ The enhancements made with the EventTracker App, demonstrate my ability to integ
 #### Instructions to download the app:
 ##### Pre work:
 Download Android Studio
+
 Clone the Repository
 
 ##### Open the Project in Android Studio
