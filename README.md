@@ -2,6 +2,8 @@
 
 # Capstone
 
+## Artifact: EventTracker
+
 ### Intro
 This portfolio showcases the key skills I have developed in the Computer Science program at SNHU. Specifically, it highlights my learning in three categories: Software Design and Engineering, Algorithms and Data Structures, and Databases. While these skills were gained through various courses, one class that particularly exemplified them was CS 360 – Mobile Architecture and Design. For this portfolio, I have chosen the EventTracker app that was built in CS 360 as my artifact to enhance across all three categories. 
 
