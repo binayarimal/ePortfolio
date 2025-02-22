@@ -1,6 +1,6 @@
 
 
-# Capstione
+# Capstone
 
 ### Intro
 This portfolio showcases the key skills I have developed in the Computer Science program at SNHU. Specifically, it highlights my learning in three categories: Software Design and Engineering, Algorithms and Data Structures, and Databases. While these skills were gained through various courses, one class that particularly exemplified them was CS 360 – Mobile Architecture and Design. For this portfolio, I have chosen the EventTracker app that was built in CS 360 as my artifact to enhance across all three categories. 
@@ -15,6 +15,14 @@ This portfolio showcases the key skills I have developed in the Computer Science
 [Enhancement 2 Video Demo - Algorithm and Data Structure](https://www.youtube.com/watch?v=Fg2B92pmaSA)
 
 [Enhancement 3 Video Dem0 - Database](https://www.youtube.com/watch?v=nuiu8mVwNRE)
+
+### Links to Repos
+Both the original app and the enhanced app are provided in this repository as the Capstone Enhanced and Capstone Pre-Enhanced folder. If users want to download them separately, I have included links to the original repository:
+
+[Repo of the Enhanced Event Tracker](https://github.com/binayarimal/capstone)
+[Repo of the Pre Enhanced Event Tracker](https://github.com/binayarimal/eventTracker)
+
+
 
 ## Self Assessment
 
@@ -39,4 +47,19 @@ Security is very important and has been priority throughout my courses in the pr
 
 The enhancements made with the EventTracker App, demonstrate my ability to integrate my knowledge across key areas of Computer Science. From the initial Java to Kotlin code conversion to the database migration to Firebase, each enhancement showcases my versatility and technical growth. By working with different programming languages, cloud technologies, and real-time data management systems, I have not only expanded my technical expertise but also developed the skills needed to build scalable, user-friendly, and secure applications. My portfolio serves as a reflection of my growth as a computer scientist and my readiness to tackle challenges in the ever-evolving tech industry.
 
+Instructions to download the app:
+##### Pre work:
+Download Android Studio
+Clone the Repository
 
+##### Open the Project in Android Studio
+1.	Open Android Studio on your laptop.
+2.	Click "Open" or "Open an Existing Project".
+3.	Navigate to the project folder you extracted/downloaded.
+4.	Click OK and wait for Android Studio to load the project. 
+5.	Wait for Gradle to sync – If prompted, click "Sync Now".
+6.	If you see a missing SDK error, go to File > Project Structure > SDK Location and set the correct Android SDK path.
+7.	If necessary, update dependencies in build.gradle and click "Sync Now" again.
+8.	Connect a physical Android device via USB or use an Android Emulator (AVD).
+9.	Click Run
+10.	Select the target device/emulator and wait for the app to launch.
