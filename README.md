@@ -11,7 +11,9 @@ This portfolio showcases the key skills I have developed in the Computer Science
 
 ### Enhancement Demos:
 [Enahancement 1 Video Demo - Software Design and Engineering](https://www.youtube.com/watch?v=Rv657tdYEnA)
+
 [Enhancement 2 Video Demo - Algorithm and Data Structure](https://www.youtube.com/watch?v=Fg2B92pmaSA)
+
 [Enhancement 3 Video Dem0 - Database](https://www.youtube.com/watch?v=nuiu8mVwNRE)
 
 ## Self Assessment
