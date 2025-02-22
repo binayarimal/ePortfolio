@@ -51,7 +51,7 @@ Security is very important and has been priority throughout my courses in the pr
 
 The enhancements made with the EventTracker App, demonstrate my ability to integrate my knowledge across key areas of Computer Science. From the initial Java to Kotlin code conversion to the database migration to Firebase, each enhancement showcases my versatility and technical growth. By working with different programming languages, cloud technologies, and real-time data management systems, I have not only expanded my technical expertise but also developed the skills needed to build scalable, user-friendly, and secure applications. My portfolio serves as a reflection of my growth as a computer scientist and my readiness to tackle challenges in the ever-evolving tech industry.
 
-Instructions to download the app:
+#### Instructions to download the app:
 ##### Pre work:
 Download Android Studio
 Clone the Repository
