@@ -6,10 +6,13 @@
 This portfolio showcases the key skills I have developed in the Computer Science program at SNHU. Specifically, it highlights my learning in three categories: Software Design and Engineering, Algorithms and Data Structures, and Databases. While these skills were gained through various courses, one class that particularly exemplified them was CS 360 – Mobile Architecture and Design. For this portfolio, I have chosen the EventTracker app that was built in CS 360 as my artifact to enhance across all three categories. 
 
 ### Code Review:
+Code Review of the original app before enhancement:
 
-[Video Code Review of Initial Enhancmeent](https://www.youtube.com/watch?v=6ofyjGaGZMg)
+[Video Code Review](https://www.youtube.com/watch?v=6ofyjGaGZMg)
 
 ### Enhancement Demos:
+These three videos demonstrate the enhancement made during the capstone:
+
 [Enahancement 1 Video Demo - Software Design and Engineering](https://www.youtube.com/watch?v=Rv657tdYEnA)
 
 [Enhancement 2 Video Demo - Algorithm and Data Structure](https://www.youtube.com/watch?v=Fg2B92pmaSA)
@@ -17,7 +20,7 @@ This portfolio showcases the key skills I have developed in the Computer Science
 [Enhancement 3 Video Dem0 - Database](https://www.youtube.com/watch?v=nuiu8mVwNRE)
 
 ### Links to Repos
-Both the original app and the enhanced app are provided in this repository as the Capstone Enhanced and Capstone Pre-Enhanced folder. If users want to download them separately, I have included links to the original repository:
+Both the original app and the enhanced app are provided in this repository as the capstone_enhanced and capstone_preEnhanced folder. If users want to download them separately, I have included links to the original repository:
 
 [Repo of the Enhanced Event Tracker](https://github.com/binayarimal/capstone)
 [Repo of the Pre Enhanced Event Tracker](https://github.com/binayarimal/eventTracker)
